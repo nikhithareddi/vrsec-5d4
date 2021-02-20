@@ -6,5 +6,6 @@ void main()
   int b=4;
   c=a*b;
   printf("value is %d",c);
+  printf("c")
   getch();
 }
