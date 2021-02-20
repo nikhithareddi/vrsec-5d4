@@ -4,7 +4,8 @@ void main()
 {
   int a=6;
   int b=4;
-  c=a+b;
-  printf("value is %d"c);
+  c=a*b;
+  printf("value is %d",c);
+  printf("c")
   getch();
 }
